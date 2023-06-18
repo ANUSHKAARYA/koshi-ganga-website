@@ -11,7 +11,7 @@
         "5kg"
       ],
       "isAccessory": false,
-      "brand": "किसान MART",
+      "brand": "",
       "price": 300,
       "id": "1"
     },
@@ -27,7 +27,7 @@
         "5kg"
       ],
       "isAccessory": false,
-      "brand": "किसान MART",
+      "brand": "",
       "price": 900,
       "id": "2"
     },
@@ -40,7 +40,7 @@
         "5kg"
       ],
       "isAccessory": false,
-      "brand": "किसान MART",
+      "brand": "",
       "price": 200,
       "id": "3"
     },
@@ -53,7 +53,7 @@
         "5kg"
       ],
       "isAccessory": false,
-      "brand": "किसान MART",
+      "brand": "",
       "price": 500,
       "id": "4"
     },
@@ -66,7 +66,7 @@
         "5kg"
       ],
       "isAccessory": false,
-      "brand": "किसान MART",
+      "brand": "",
       "price": 350,
       "id": "5"
     },
@@ -77,7 +77,7 @@
         "description": "Nurture your plants to thrive with our premium fertilizer. Enriched with essential nutrients, our formula promotes healthy growth, vibrant blooms, and lush foliage. ",
         "size": ["25kg"],
         "isAccessory": true,
-        "brand": "किसान MART",
+        "brand": "",
         "price": 900,
         "id": "6"
       },
@@ -88,7 +88,7 @@
       "description": "Nourish your plants with our Calcium Compost enriched with organic egg shells. Promote strong growth and vibrant blooms with this natural and eco-friendly fertilizer. Unlock the power of nature today.",
       "size": ["25kg"],
       "isAccessory": true,
-      "brand": "किसान MART",
+      "brand": "",
       "price": 800,
       "id": "7"
     },
@@ -99,7 +99,7 @@
         "description": "Protect your crops with our powerful insecticide. Formulated to eliminate pests effectively, our product offers long-lasting defense against unwanted insects. Safeguard your surroundings with confidence.",
         "size": ["25kg"],
         "isAccessory": true,
-        "brand": "किसान MART",
+        "brand": "",
         "price": 1200,
         "id": "8"
       },
@@ -110,7 +110,7 @@
         "description": "Fuel your garden's vitality with our Bio Compost. Packed with nutrient-rich organic manure, this eco-friendly fertilizer nurtures plants for abundant growth and flourishing blooms. Cultivate a thriving garden with ease.",
         "size": ["25kg"],
         "isAccessory": true,
-        "brand": "किसान MART",
+        "brand": "",
         "price": 600,
         "id": "9"
       },    
@@ -121,7 +121,7 @@
       "description": "Take control of stubborn weeds with our potent herbicide. Specially designed for effective weed management, our product delivers reliable results to keep your landscape pristine and weed-free.",
       "size": ["25kg"],
       "isAccessory": true,
-      "brand": "किसान MART",
+      "brand": "",
       "price": 850,
       "id": "10"
     }
