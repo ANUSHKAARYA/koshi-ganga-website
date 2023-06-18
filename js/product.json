@@ -1,0 +1,128 @@
+[
+    {
+      "name": "Rice",
+      "preview": "https://plus.unsplash.com/premium_photo-1674654419403-1a80edb26881?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+      "photos": [
+        "https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+        "https://plus.unsplash.com/premium_photo-1674654419403-1a80edb26881?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440"
+      ],
+      "description": "Indulge in the superior flavor and aroma of our meticulously selected rice. Each grain is plump, tender, and cooks to perfection, adding a touch of culinary perfection to your favorite dishes. Elevate your dining experience today.",
+      "size": [
+        "5kg"
+      ],
+      "isAccessory": false,
+      "brand": "किसान MART",
+      "price": 300,
+      "id": "1"
+    },
+    {
+      "name": "Maize",
+      "preview": "https://images.unsplash.com/photo-1623066798929-946425dbe1b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+      "photos": [
+        "https://images.unsplash.com/photo-1623066798929-946425dbe1b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+        "https://images.unsplash.com/photo-1634666328718-ad6af3112aff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440"
+      ],
+      "description": "Experience the natural goodness of our premium maize. Grown with care and harvested at peak freshness, our corn kernels are bursting with flavor. Perfect for a variety of dishes, add a dash of versatility to your kitchen repertoire.",
+      "size": [
+        "5kg"
+      ],
+      "isAccessory": false,
+      "brand": "किसान MART",
+      "price": 900,
+      "id": "2"
+    },
+    {
+      "name": "Wheat",
+      "preview": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+      "photos": ["https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440","https://images.unsplash.com/photo-1584353781226-579f0ab7c770?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGdyYWlufGVufDB8fDB8fHww&w=1080&q=80&h=1440"],
+      "description": "Discover the exceptional quality of our premium wheat. Sourced from trusted farms, our wheat grains are carefully processed to preserve their nutritional value and distinctive taste. Elevate your baking and cooking with our premium wheat for delicious results every time.",
+      "size": [
+        "5kg"
+      ],
+      "isAccessory": false,
+      "brand": "किसान MART",
+      "price": 200,
+      "id": "3"
+    },
+    {
+      "name": "Mustard",
+      "preview": "https://images.unsplash.com/photo-1599193804298-455ae09448ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bXVzdGFyZCUyMHNlZWRzfGVufDB8fDB8fHww&auto=format&fit=crop&w=1080&q=80&h=1440",
+      "photos": [ "https://images.unsplash.com/photo-1599193804298-455ae09448ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bXVzdGFyZCUyMHNlZWRzfGVufDB8fDB8fHww&w=1080&q=80&h=1440","https://media.istockphoto.com/id/1426214394/photo/white-mustard-seeds-and-wooden-spoon-top-view-selective-focus-copy-space-mustard-seeds-have.webp?b=1&s=170667a&w=0&k=20&c=PTL7tOhgHO0NcngbDMl2y6wPU73PmGPnfklk8H_dBJM="],
+      "description": "Enhance your meals with our exquisite mustard. Crafted from carefully selected mustard seeds, our flavorful condiment adds a tangy and versatile touch to your culinary creations. Elevate your dishes today.",
+      "size": [
+        "5kg"
+      ],
+      "isAccessory": false,
+      "brand": "किसान MART",
+      "price": 500,
+      "id": "4"
+    },
+    {
+      "name": "Lentils",
+      "preview": "https://plus.unsplash.com/premium_photo-1671130295825-402e525e7834?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+      "photos": ["https://images.unsplash.com/photo-1601941187195-182cd1e7fc5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGVudGlsfGVufDB8fDB8fHww&auto=format&fit=crop&w=1080&q=80&h=1440","https://plus.unsplash.com/premium_photo-1671130295825-402e525e7834?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440"],
+      "description": "Discover the goodness of our premium lentils. Packed with protein and essential nutrients, our carefully selected lentils deliver a rich and hearty addition to your favorite recipes. Experience wholesome satisfaction today.",
+      "size": [
+        "5kg"
+      ],
+      "isAccessory": false,
+      "brand": "किसान MART",
+      "price": 350,
+      "id": "5"
+    },
+    {
+        "name": "Fertilizer",
+        "preview": "https://plus.unsplash.com/premium_photo-1661942064041-a15c0c93d2a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+        "photos": ["https://plus.unsplash.com/premium_photo-1661942064041-a15c0c93d2a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440"],
+        "description": "Nurture your plants to thrive with our premium fertilizer. Enriched with essential nutrients, our formula promotes healthy growth, vibrant blooms, and lush foliage. ",
+        "size": ["25kg"],
+        "isAccessory": true,
+        "brand": "किसान MART",
+        "price": 900,
+        "id": "6"
+      },
+    {
+      "name": "Calcium Compost",
+      "preview": "https://images.unsplash.com/photo-1621460248137-1656be874a8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+      "photos": ["https://images.unsplash.com/photo-1621460248137-1656be874a8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440"],
+      "description": "Nourish your plants with our Calcium Compost enriched with organic egg shells. Promote strong growth and vibrant blooms with this natural and eco-friendly fertilizer. Unlock the power of nature today.",
+      "size": ["25kg"],
+      "isAccessory": true,
+      "brand": "किसान MART",
+      "price": 800,
+      "id": "7"
+    },
+    {
+        "name": "Insecticide",
+        "preview": "https://plus.unsplash.com/premium_photo-1661942064041-a15c0c93d2a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+        "photos": ["https://plus.unsplash.com/premium_photo-1661942064041-a15c0c93d2a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440"],
+        "description": "Protect your crops with our powerful insecticide. Formulated to eliminate pests effectively, our product offers long-lasting defense against unwanted insects. Safeguard your surroundings with confidence.",
+        "size": ["25kg"],
+        "isAccessory": true,
+        "brand": "किसान MART",
+        "price": 1200,
+        "id": "8"
+      },
+    {
+        "name": "Bio Compost",
+        "preview": "https://images.unsplash.com/photo-1584747420644-5c767eebcbe6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+        "photos": [],
+        "description": "Fuel your garden's vitality with our Bio Compost. Packed with nutrient-rich organic manure, this eco-friendly fertilizer nurtures plants for abundant growth and flourishing blooms. Cultivate a thriving garden with ease.",
+        "size": ["25kg"],
+        "isAccessory": true,
+        "brand": "किसान MART",
+        "price": 600,
+        "id": "9"
+      },    
+    {
+      "name": "Herbicide",
+      "preview": "https://plus.unsplash.com/premium_photo-1661942064041-a15c0c93d2a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440",
+      "photos": ["https://plus.unsplash.com/premium_photo-1661942064041-a15c0c93d2a5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80&h=1440"],
+      "description": "Take control of stubborn weeds with our potent herbicide. Specially designed for effective weed management, our product delivers reliable results to keep your landscape pristine and weed-free.",
+      "size": ["25kg"],
+      "isAccessory": true,
+      "brand": "किसान MART",
+      "price": 850,
+      "id": "10"
+    }
+  ]

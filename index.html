@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- <link rel="stylesheet" href="/style.css"> -->
+    <title>KOSHI GANGA</title>
+    <!-- favicon -->
+    <link rel="icon" href="/img/M2.png" type="image/gif" sizes="16x16">
+    <!-- header links -->
+    <script src="https://kit.fontawesome.com/4a3b1f73a2.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato:wght@300;400;600;700;1000&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <!-- slider links -->
+    <!-- <script src="http://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script> -->
+    <script src="js/jQuery3.4.1.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;1000&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+
+<body>
+    <!-- HEADER -->
+    <div id="1"></div>
+    <script>
+        load("header.html");
+        function load(url) {
+            req = new XMLHttpRequest();
+            req.open("GET", url, false);
+            req.send(null);
+            document.getElementById(1).innerHTML = req.responseText;
+        }
+    </script>
+    <!-- NAV -->
+    <div id="2"></div>
+    <script>
+        load("nav.html");
+        function load(url) {
+            req = new XMLHttpRequest();
+            req.open("GET", url, false);
+            req.send(null);
+            document.getElementById(2).innerHTML = req.responseText;
+        }
+    </script>
+    <!-- SLIDER -->
+    <div id="3"></div>
+    <script>
+        load("slider.html");
+        function load(url) {
+            req = new XMLHttpRequest();
+            req.open("GET", url, false);
+            req.send(null);
+            document.getElementById(3).innerHTML = req.responseText;
+        }
+    </script>
+
+    <!-- CONTENT SECTION -->
+    <div id="4"></div>
+    <script>
+        load("content.html");
+        function load(url) {
+            req = new XMLHttpRequest();
+            req.open("GET", url, false);
+            req.send(null);
+            document.getElementById(4).innerHTML = req.responseText;
+        }
+    </script>
+
+    <!-- CTA -->
+    <section class="section-cta">
+        <div class="container-cta">
+            <div class="cta">
+                <div class="cta-text-box">
+                    <h2 class="heading-secondary">Sell To Us</h2>
+                    <p class="cta-text">
+                        We are here to help farmers and small businessmens to achieve their goals and get high
+                        profit. Sell to us and we promise to give you the best price we can.
+                    </p>
+
+                    <form class="cta-form" action="#">
+                        <div>
+                            <label for="full-name">Full Name</label>
+                            <input id="full-name" type="text" placeholder="John Smith" required />
+                        </div>
+
+                        <div>
+                            <label for="email">Email address</label>
+                            <input id="email" type="email" placeholder="me@example.com" required />
+                        </div>
+
+                        <div>
+                            <label for="select-where">Where did you hear from us?</label>
+                            <select id="select-where" required>
+                                <option value="">Please choose one option:</option>
+                                <option value="friends">Friends and family</option>
+                                <option value="youtube">YouTube video</option>
+                                <option value="podcast">Podcast</option>
+                                <option value="ad">Facebook ad</option>
+                                <option value="others">Others</option>
+                            </select>
+                        </div>
+
+                        <button class="btn btn--form" onclick="window.location.href=
+                            'mailto:koshiganga.org@gmail.com';">Contact US</button>
+
+                        <!-- <input type="checkbox" />
+            <input type="number" /> -->
+                    </form>
+                </div>
+                <div class="cta-img-box" role="img" aria-label="Indian Farmer"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <div id="5"></div>
+    <script>
+        load("footer.html");
+        function load(url) {
+            req = new XMLHttpRequest();
+            req.open("GET", url, false);
+            req.send(null);
+            document.getElementById(5).innerHTML = req.responseText;
+        }
+    </script>
+
+
+</body>
+
+<!-- slider JS START -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#containerSlider').slick({
+            dots: true,
+            infinite: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 1500,
+        });
+    });
+</script>
+<!-- slider JS ENDS -->
+
+<!-- content JS -->
+<script src="js/content.js"></script>
+
+</html>
